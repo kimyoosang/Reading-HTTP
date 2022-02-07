@@ -1,4 +1,4 @@
-# Chapter1. URL과 리소스
+# Chapter2. URL과 리소스
 
 ## **2.1 HTTP: 인터넷의 리소스 탐색하기**
 
