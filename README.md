@@ -10,7 +10,7 @@
 
 ### [Chapter3. 메시지](./Part1/Chapter3/Chapter3.md)
 
-### Chapter4. 커넥션 관리
+### [Chapter4. 커넥션 관리](./Part1/Chapter4/Chapter4.md)
 
 <br></br>
 
