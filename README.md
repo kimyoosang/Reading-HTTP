@@ -18,7 +18,7 @@
 
 ### [Chapter5. 웹서버](./Part2/Chapter5/Chapter5.md)
 
-### Chapter6. 프락시
+### [Chapter6. 프락시](./Part2/Chapter6/Chapter6.md)
 
 ### Chapter7. 캐시
 
