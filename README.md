@@ -20,7 +20,7 @@
 
 ### [Chapter6. 프락시](./Part2/Chapter6/Chapter6.md)
 
-### Chapter7. 캐시
+### [Chapter7. 캐시](./Part2/Chapter7/Chapter7.md)
 
 ### Chapter8. 통합점: 게이트웨이, 터널, 릴레이
 
